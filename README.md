@@ -102,6 +102,15 @@ To train the EfficientNet model on a custom dataset, follow these steps:
 The dataset used for training the EfficientNet model should consist of images of crops with and without diseases. Each image should be labeled with the corresponding disease name.
 Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
 
+## Author
+
+[Kajal Lochab](https://github.com/kajallochab)
+[Lakshin Pathak](https://github.com/Lbp2563)
+[Lakshit Pathak](https://github.com/Lakshit-25)
+[Kapil Mehta]
+
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
