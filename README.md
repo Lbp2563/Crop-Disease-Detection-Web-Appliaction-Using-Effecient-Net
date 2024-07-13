@@ -52,7 +52,7 @@ Follow these steps to set up the application on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone  https://github.com/Lbp2563/Crop-Disease-Detection-Web-Appliaction-Using-Effecient-Net
+    git clone https://github.com/Lbp2563/Crop-Disease-Detection-Web-Appliaction-Using-Effecient-Net.git
     cd Crop-Disease-Detection-Web-Application-Using-Efficient-Net
     ```
 
