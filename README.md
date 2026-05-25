@@ -107,7 +107,7 @@ Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
 [Kajal Lochab](https://github.com/kajallochab)
 [Lakshin Pathak](https://github.com/Lbp2563)
 [Lakshit Pathak](https://github.com/Lakshit-25)
-[Kapil Mehta]
+[Khushi Shah](https://github.com/KHUSHI0809)
 
 
 
